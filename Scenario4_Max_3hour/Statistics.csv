@@ -1,0 +1,5 @@
+﻿Scenario,Station,Pattern,N,Mean,Std,Min,Max,Median
+Maximum 3-hour Rainfall Intensity,Geumcheon,Simultaneous,19,17.9,9.67,8.0,38.5,13.0
+Maximum 3-hour Rainfall Intensity,Geumcheon,Non-simultaneous,7,19.17,18.26,6.33,58.67,10.67
+Maximum 3-hour Rainfall Intensity,Gadeok,Simultaneous,19,14.48,5.54,6.5,23.5,11.83
+Maximum 3-hour Rainfall Intensity,Gadeok,Non-simultaneous,7,15.9,5.62,5.17,21.33,17.0
